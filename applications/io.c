@@ -1,6 +1,6 @@
 #include "io.h"
 
-
+//add test
 rt_uint8_t g_pin_release_cnt;
 
 void release_rleay_ctrl_pin(void)
